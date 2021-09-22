@@ -8,5 +8,5 @@ Normal: a ligeira raposa marrom saltou sobre o cachorro cansado
 
 Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
 
-# REGRAS DE USO
+# REGRAS DE USO NO PY
 As mensagens serão convertidas para minúsculas na criptografia, definir qual o número da rota para criptografar, no todo existe 45 rotas, mas na cifra de cesar so é usado até a rota 13.
